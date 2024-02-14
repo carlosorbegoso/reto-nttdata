@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+application:
+  jsonfile: "https://randomuser.me/api/?results=10"
+
