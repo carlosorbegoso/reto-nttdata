@@ -49,4 +49,7 @@ Luego movete a la carpeta.
 ~~~
 	cd front
 ~~~
-Luego abrir el index en el navegador
+Luego abrir el 
+~~~
+index en el navegador
+~~~
