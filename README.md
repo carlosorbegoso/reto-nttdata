@@ -16,9 +16,10 @@ Clona el repositorio desde GitHub utilizando el siguiente comando:
 ~~~
 https://github.com/carlosorbegoso/reto-nttdata/tree/master
 ~~~
-luego movete a la carpeta
+luego moverse a la carpeta
+~~~
 cd reto
-
+~~~
 **Ejecuta la Aplicación:**
 
 - Ejecuta el siguiente comando para compilar y ejecutar la aplicación:
@@ -45,6 +46,7 @@ https://github.com/carlosorbegoso/reto-nttdata/tree/master
 ~~~
 
 Luego movete a la carpeta.
+~~~
 	cd front
-
+~~~
 Luego abrir el index en el navegador
