@@ -30,7 +30,7 @@ luego :
 http://localhost:8081
 ## Notas Adicionales
 
-- Si el proyecto utiliza un puerto diferente al puerto predeterminado (8080), asegúrate de modificar la URL en consecuencia.
+- Si el proyecto utiliza un puerto diferente al puerto predeterminado (8081), asegúrate de modificar la URL en consecuencia.
 - Si deseas empaquetar el proyecto en un archivo JAR ejecutable, puedes utilizar el comando:
 
 
